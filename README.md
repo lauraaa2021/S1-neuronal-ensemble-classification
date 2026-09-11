@@ -33,7 +33,7 @@ The pipeline:
 
 ## Data availability
 
-The experimental calcium-imaging datasets are not included in this repository.
+Experimental datasets are not included in this repository due to data ownership and confidentiality considerations.
 
 ## Author
 
